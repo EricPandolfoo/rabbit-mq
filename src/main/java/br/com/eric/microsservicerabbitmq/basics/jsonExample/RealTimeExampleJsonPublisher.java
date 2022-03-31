@@ -1,4 +1,4 @@
-package br.com.eric.microsservicerabbitmq.twoJsonExample;
+package br.com.eric.microsservicerabbitmq.basics.jsonExample;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;

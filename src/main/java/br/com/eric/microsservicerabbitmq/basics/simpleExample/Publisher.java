@@ -1,4 +1,4 @@
-package br.com.eric.microsservicerabbitmq.oneSimpleExample;
+package br.com.eric.microsservicerabbitmq.basics.simpleExample;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;

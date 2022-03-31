@@ -1,4 +1,4 @@
-package br.com.eric.microsservicerabbitmq.twoJsonExample;
+package br.com.eric.microsservicerabbitmq.basics.jsonExample;
 
 public class JsonEntity {
 
